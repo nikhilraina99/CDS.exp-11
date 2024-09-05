@@ -143,5 +143,26 @@ return 0;
 
 ## Outputs:
 
+1. BIKE DETAILS
+
+
+2. CLASS BY FUNCTION
+
+
+3. AREA OF RECTANGLE
+
+
+
+4. USER CLASS
+
+
+
+## Conclusion:
+
+We learnt to declare class.
+
+We learnt to create a class by taking inputs from user.
+
+We learnt to make a class by function.
 
 
