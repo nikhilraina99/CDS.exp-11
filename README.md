@@ -152,11 +152,11 @@ return 0;
 
 3. AREA OF RECTANGLE
 
-
+![Screenshot 2024-09-05 181725](https://github.com/user-attachments/assets/729a289d-921d-4117-a2b6-ae176417cdf6)
 
 4. USER CLASS
 
-
+![Screenshot 2024-09-05 181951](https://github.com/user-attachments/assets/acdc5f9c-bf9b-4eec-886d-454bddc023e8)
 
 ## Conclusion:
 
