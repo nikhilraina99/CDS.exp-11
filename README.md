@@ -145,7 +145,7 @@ return 0;
 
 1. BIKE DETAILS
 
-![Screenshot 2024-09-05 184131](https://github.com/user-attachments/assets/b091c505-27ec-40b3-b8
+![Screenshot 2024-09-05 184131](https://github.com/user-attachments/assets/b091c505-27ec-40b3-b8)
 
 2. CLASS BY FUNCTION
  
