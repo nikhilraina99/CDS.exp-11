@@ -147,7 +147,8 @@ return 0;
 
 
 2. CLASS BY FUNCTION
-
+ 
+![Screenshot 2024-09-05 181549](https://github.com/user-attachments/assets/bffa95a0-e62a-4e6c-be2a-68b30b3ca4e4)
 
 3. AREA OF RECTANGLE
 
